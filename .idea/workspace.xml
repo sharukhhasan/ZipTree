@@ -30,18 +30,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="wtmalloc.h" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/include/wtmalloc.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
-              <folding>
-                <element signature="e#182#201#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="wtree.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/include/wtree.h">
           <provider selected="true" editor-type-id="text-editor">
@@ -52,12 +40,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="yamalloc.h" pinned="false" current-in-tab="false">
+      <file leaf-file-name="yamalloc.h" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/include/yamalloc.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="10" selection-end-column="27" />
-              <folding />
+            <state relative-caret-position="555">
+              <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+              <folding>
+                <element signature="e#166#185#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,12 +59,12 @@
       <list>
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/include/wtree.h" />
-        <option value="$PROJECT_DIR$/include/yamalloc.h" />
         <option value="$PROJECT_DIR$/include/bestfit.h" />
         <option value="$PROJECT_DIR$/include/bin.h" />
         <option value="$PROJECT_DIR$/include/quantum.h" />
         <option value="$PROJECT_DIR$/include/segment.h" />
         <option value="$PROJECT_DIR$/include/wtmalloc.h" />
+        <option value="$PROJECT_DIR$/include/yamalloc.h" />
       </list>
     </option>
   </component>
@@ -333,12 +323,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1471217658449</updated>
-      <workItem from="1471217660519" duration="756000" />
+      <workItem from="1471217660519" duration="790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="756000" />
+    <option name="totallyTimeSpent" value="790000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -403,14 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/yamalloc.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="10" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/include/bestfit.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
@@ -449,6 +431,16 @@
           <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
           <folding>
             <element signature="e#182#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/yamalloc.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+          <folding>
+            <element signature="e#166#185#0" expanded="true" />
           </folding>
         </state>
       </provider>
